@@ -1,0 +1,7 @@
+LIBRARY PTLib
+ EXPORTS
+Open
+Read
+Write
+State
+Close
